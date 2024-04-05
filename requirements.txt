@@ -1,0 +1,10 @@
+anyio
+uvicorn
+aiohttp
+requests
+fastapi
+prompt_toolkit
+rich
+revChatGPT
+browser_cookie3
+curl_cffi
