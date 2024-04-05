@@ -1,3 +1,4 @@
+bard
 anyio
 uvicorn
 aiohttp
