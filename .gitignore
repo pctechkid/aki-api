@@ -4,7 +4,6 @@
 .vscode
 demploys/
 Issues/
-/src/Config.conf
 /src/__pycache__
 /src/adapter/
 src/claude_stream.py
